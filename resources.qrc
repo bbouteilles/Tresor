@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/tresor" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
